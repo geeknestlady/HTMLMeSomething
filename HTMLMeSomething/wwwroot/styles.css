@@ -1,0 +1,31 @@
+﻿/*header{
+    font-size: 30px;
+    font-family: Bearly 'Bearley Shadow',Arial, sans-serif;
+}*/
+body {
+    color:darkslategray;
+}
+
+#All
+{
+    width: 900px;
+    margin-left: auto; margin-right: auto;
+    stroke: black;
+    stroke-width: 2px;
+}
+.body {
+    color: dimgrey;
+}
+
+h1{
+    font-size: 25px;
+    color: gray;
+}
+h2{
+    font-size: 20px;
+}
+p{
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;     
+}
+
